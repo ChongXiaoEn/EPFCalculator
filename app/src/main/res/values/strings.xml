@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EPFCalculator</string>
+    <string name="DateOfBirth">Date Of Birth:</string>
+    <string name="minBasicSaving">Min Basic Saving(RM):</string>
+    <string name="age">Age(years):</string>
+    <string name="investment">Investment:</string>
+    <string name="select_here">Click Here To Select</string>
+</resources>
